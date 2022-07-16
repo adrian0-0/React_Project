@@ -1,0 +1,10 @@
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+} 
+
+.addComment__button:hover {
+    border-radius: 5px;
+    background-color: #c36a0b;
+
+}
